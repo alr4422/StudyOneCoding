@@ -10,6 +10,6 @@ I worked on the code, I uploaded all of it to GitHub, but here’s a quick summa
 
 -Then ALL_FUNCTIONS has all the basic functions working and draws pretty picture with all eight of them
 
--CreatesAllPaths is jje's code with the additional functions in the swtich statement and the fourth loop. Draws all paths and saves each as an inidvdual file with a unique name. 
+-PathFileGenerator is jje's code with the additional functions in the swtich statement and the fourth loop. Draws all paths and saves each as an inidvdual file with a unique name. 
 
--DrawsAllPaths outputs all paths to the same sketchpad without saving them as separate files just as a check that the code works.
+-CreatesAllPaths outputs all paths to the same sketchpad without saving them as separate files just as a check that the code works.
